@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Super Hentai Bros",
+    "descripcion": "Un juego de plataformas para adultos con gráficos retro.",
+    "imagen": "https://i.imgur.com/abcd123.jpg",
+    "link": "https://www.mediafire.com/file/xxxxx/SuperHentaiBros.apk/file",
+    "tamano": "85 MB",
+    "genero": "Plataformas",
+    "plataforma": "Android",
+    "categorias": ["Aventura", "Retro", "18+"]
+  },
+  {
+    "titulo": "Waifu RPG",
+    "descripcion": "Un RPG con waifus y sistema de combate por turnos.",
+    "imagen": "https://i.imgur.com/xyz987.jpg",
+    "link": "https://www.mediafire.com/file/yyyyy/WaifuRPG.apk/file",
+    "tamano": "120 MB",
+    "genero": "RPG",
+    "plataforma": "Android",
+    "categorias": ["RPG", "Anime", "18+"]
+  }
+]
