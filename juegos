@@ -7,7 +7,8 @@
     "tamano": "85 MB",
     "genero": "Plataformas",
     "plataforma": "Android",
-    "categorias": ["Aventura", "Retro", "18+"]
+    "categorias": ["Aventura", "Retro", "18+"],
+    "traductor": "Traducido automáticamente. Puede contener errores."
   },
   {
     "titulo": "Prueba",
@@ -17,6 +18,7 @@
     "tamano": "120 MB",
     "genero": "RPG",
     "plataforma": "Android",
-    "categorias": ["RPG", "Anime", "18+"]
+    "categorias": ["RPG", "Anime", "18+"],
+    "traductor": "Traducción verificada por el equipo."
   }
 ]
