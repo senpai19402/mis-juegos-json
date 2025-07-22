@@ -3,6 +3,11 @@
     "titulo": "Prueba1",
     "descripcion": "Un juego de plataformas para adultos con gráficos retro.",
     "imagen": "https://pbs.twimg.com/media/GwAoR5FW8AAKmav?format=jpg&name=large",
+    "imagenes": [
+      "https://pbs.twimg.com/media/GwAoR5FW8AAKmav?format=jpg&name=large",
+      "https://ejemplo.com/imagen2.jpg",
+      "https://ejemplo.com/imagen3.jpg"
+    ],
     "link": "https://www.mediafire.com/file/xxxxx/SuperHentaiBros.apk/file",
     "tamano": "85 MB",
     "genero": "Plataformas",
@@ -14,6 +19,12 @@
     "titulo": "Prueba",
     "descripcion": "Prueba",
     "imagen": "https://pbs.twimg.com/media/GwG7CjBa8AAxjqR?format=jpg&name=large",
+    "imagenes": [
+      "https://pbs.twimg.com/media/GwG7CjBa8AAxjqR?format=jpg&name=large",
+      "https://ejemplo.com/screenshot1.jpg",
+      "https://ejemplo.com/screenshot2.jpg",
+      "https://ejemplo.com/screenshot3.jpg"
+    ],
     "link": "https://www.mediafire.com/file/yyyyy/WaifuRPG.apk/file",
     "tamano": "120 MB",
     "genero": "RPG",
